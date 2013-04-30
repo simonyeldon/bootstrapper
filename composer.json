@@ -22,7 +22,7 @@
     "anahkiasen/underscore-php": "dev-master",
     "illuminate/html": "dev-master",
     "illuminate/support": "4.0.*@dev",
-    "jasonlewis/basset": "dev-master"
+    "jasonlewis/basset": "master"
   },
   "require-dev": {
     "mockery/mockery": "dev-master"
